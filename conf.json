@@ -1,0 +1,9 @@
+{
+    "sql":{
+        "host": "localhost",
+        "user": "root",
+        "password": "admin"
+    },
+    "port": 9090,
+    "name": "express"
+}
